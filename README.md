@@ -1,8 +1,7 @@
 ## Hi there 👋
-I'm a postgraduate from the School of Software at South China University of Technology in China.
-I'm interested in software design, backend technology and frontend technology.
-I'm conducting research in the field of software architecture smell.
-I'm familiar with Java, TypeScript, Spring, Vue.
+- 🔭 I'm a postgraduate from the School of Software at South China University of Technology in China.
+- ⚡ I'm interested in software design, backend technology and frontend technology. I'm familiar with Java, TypeScript, Spring, Vue.
+- 🌱 I'm conducting research in the field of software architecture smell.
 <!--
 **TanHonN/tanhonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
